@@ -2,7 +2,6 @@
 
 # 🌾 Paddy Crop Analysis Using Python
 
-<img src="Images/banner.png" width="900">
 
 ### Data Analysis | EDA | Visualization | Python
 
