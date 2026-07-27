@@ -120,7 +120,7 @@ The **Paddy Crop Analysis Using Python** project analyses a paddy cultivation da
 ## Box Plot
 
 <p align="center">
-<img src="Images/boxplot.png" width="700">
+<img src="Images/boxplot1.png" width="700">
 </p>
 
 ---
@@ -128,7 +128,7 @@ The **Paddy Crop Analysis Using Python** project analyses a paddy cultivation da
 ## Heatmap
 
 <p align="center">
-<img src="Images/heatmap.png" width="700">
+<img src="Images/correlationheatmap.png" width="700">
 </p>
 
 ---
@@ -166,13 +166,3 @@ The **Paddy Crop Analysis Using Python** project analyses a paddy cultivation da
 This project demonstrates end-to-end data analysis using Python, providing meaningful insights into paddy cultivation and helping support agricultural decision-making.
 
 ---
-
-# 👨‍💻 Author
-
-**Mageshwaran K**
-
-📧 Email: your_email@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/yourprofile
-
-⭐ If you like this project, don't forget to Star this repository.
