@@ -112,7 +112,7 @@ The **Paddy Crop Analysis Using Python** project analyses a paddy cultivation da
 ## Histogram
 
 <p align="center">
-<img src="images/histogram.png" width="700">
+<img src="Images/histogram.png" width="700">
 </p>
 
 ---
