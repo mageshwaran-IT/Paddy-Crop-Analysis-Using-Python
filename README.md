@@ -5,12 +5,6 @@
 
 ### Data Analysis | EDA | Visualization | Python
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical-orange)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical-purple)
-
 </div>
 
 ---
