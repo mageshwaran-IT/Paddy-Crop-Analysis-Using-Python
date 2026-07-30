@@ -29,12 +29,13 @@ The **Paddy Crop Analysis Using Python** project analyses a paddy cultivation da
 
 # 🎯 Objectives
 
-- Understand the dataset
-- Clean and preprocess the data
-- Perform Exploratory Data Analysis
-- Identify factors affecting yield
-- Create meaningful visualizations
-- Generate insights for better agricultural decisions
+- To consolidate and preprocess the Paddy Crop dataset by integrating key agricultural attributes such as **paddy variety, soil type, seed rate, fertilizer application, irrigation practices, and crop yield** for effective analysis.
+
+- To analyze the distribution and characteristics of major cultivation factors, including **paddy varieties, soil types, land area, and farming practices**, to understand overall dataset patterns.
+
+- To compare paddy yield variations across different **paddy varieties and soil types** to identify factors associated with higher and lower agricultural productivity.
+
+- To examine the relationship between cultivation factors such as **Agriblock, paddy variety, soil type, nursery practices, and crop yield** using statistical analysis and data visualization techniques.
 
 ---
 
@@ -75,17 +76,17 @@ The **Paddy Crop Analysis Using Python** project analyses a paddy cultivation da
 
 ### Bivariate Analysis
 
-- Box Plot
-- Scatter Plot
-- Soil Type vs Yield
-- Variety vs Yield
+- Bar Plot
+- Line Plot
+- Count Plot with Hue
 
 ### Multivariate Analysis
 
-- Pair Plot
-- Heatmap
-- Correlation Matrix
 - Grouped Bar Chart
+- Grouped Bar Plot
+- Pivot Table Heatmap
+- Correlation Matrix
+
 
 ---
 
