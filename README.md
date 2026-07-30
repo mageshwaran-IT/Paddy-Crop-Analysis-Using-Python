@@ -110,14 +110,62 @@ The **Paddy Crop Analysis Using Python** project analyses a paddy cultivation da
 </p>
 
 ---
-
-## Box Plot
+## Count Plot
 
 <p align="center">
-<img src="Images/boxplot1.png" width="700">
+<img src="Images/countplot1.png" width="700">
+</p>
+<p align="center">
+<img src="Images/countplot2.png" width="700">
 </p>
 
 ---
+
+## Bar Plot
+
+<p align="center">
+<img src="Images/barplot.png" width="700">
+</p>
+
+---
+
+## Line Plot
+
+<p align="center">
+<img src="Images/linepolt.png" width="700">
+</p>
+
+---
+## Count Plot with Hue
+
+<p align="center">
+<img src="Images/countplotwithhue.png" width="700">
+</p>
+
+---
+## Grouped Bar Chart
+
+<p align="center">
+<img src="Images/groupchart1.png" width="700">
+</p>
+
+---
+
+## Grouped Bar Plot
+
+<p align="center">
+<img src="Images/groupbarplot.png" width="700">
+</p>
+
+___
+
+## Pivot Table Heatmap
+
+<p align="center">
+<img src="Images/pivottableheatmap.png" width="700">
+</p>
+
+___
 
 ## Heatmap
 
@@ -125,23 +173,24 @@ The **Paddy Crop Analysis Using Python** project analyses a paddy cultivation da
 <img src="Images/correlationheatmap.png" width="700">
 </p>
 
----
 
-## Pair Plot
-
-<p align="center">
-<img src="Images/pairplot.png" width="700">
-</p>
 
 ---
 
-# 📌 Key Findings
 
-- Yield differs across paddy varieties.
-- Soil type significantly affects productivity.
-- Rainfall influences crop yield.
-- Fertilizer application impacts production.
-- EDA helped identify patterns and outliers.
+# 🔍 Key Findings
+
+- The analysis of the Paddy Crop dataset revealed that agricultural factors such as **land area, seed rate, fertilizer application, nursery practices, and crop management activities** have a significant influence on paddy yield.
+
+- The dataset showed variations in productivity across different **paddy varieties and soil types**, indicating that crop selection and soil conditions play an important role in achieving higher yields.
+
+- Statistical analysis and visualization results identified strong relationships between cultivation practices such as **DAP, Urea, Potash, Micronutrients, Pest Control, and LP_Mainfield** and paddy yield, suggesting that effective resource management improves productivity.
+
+- Different **Agriblocks and farming practices** showed variations in yield performance, highlighting the impact of regional cultivation patterns and agricultural methods.
+
+- Correlation analysis indicated that most agricultural inputs have a **positive association with paddy yield**, while some environmental factors showed weaker relationships.
+
+- Data exploration helped identify important factors affecting crop production and provided insights to support **better crop planning, resource optimization, and productivity improvement in paddy farming**.
 
 ---
 
@@ -157,6 +206,10 @@ The **Paddy Crop Analysis Using Python** project analyses a paddy cultivation da
 
 # ✅ Conclusion
 
-This project demonstrates end-to-end data analysis using Python, providing meaningful insights into paddy cultivation and helping support agricultural decision-making.
+The Paddy Crop Analysis showed that paddy yield varies based on **paddy variety, soil type, and Agriblock (location) conditions**.
+
+- The analysis of different paddy varieties (**Delux Ponni, Ponmani, and CO-43**) showed variations in productivity under different cultivation conditions.
+- Agriblock-wise analysis identified differences in production due to variations in **farming practices, resource utilization, and cultivation methods**.
+- Selecting suitable paddy varieties, maintaining proper soil conditions, and optimizing cultivation practices are essential for achieving **higher paddy yield and improved agricultural productivity**.
 
 ---
